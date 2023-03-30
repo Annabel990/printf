@@ -1,4 +1,4 @@
-.TH _printf 3 "30 March 2023" "1.0" "custom man page"
+.TH _printf 3 "29 March 2023" "1.0" "custom man page"
 .SH NAME
 .B _printf
 - formatted output conversion
